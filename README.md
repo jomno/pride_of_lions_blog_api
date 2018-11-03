@@ -1,24 +1,7 @@
-# README
+# Pride Of Lions Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+본 프로젝트는 <br>
+pride of lions blog의 api 서버 코드입니다.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+--------
+- [ ] api 서버 세팅
