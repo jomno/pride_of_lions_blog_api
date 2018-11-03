@@ -33,7 +33,7 @@ group :development, :test do
   gem 'shoulda-matchers', '~> 3.0', require: false
   gem 'database_cleaner'
   gem 'faker'
-  gem 'factory_girl_rails'
+  gem 'factory_bot'
 end
 
 group :development do
